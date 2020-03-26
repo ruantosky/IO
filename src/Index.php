@@ -12,6 +12,7 @@ class Index
 {
     public function index(){
         echo 'ciehsi';
+        echo "master change";
         debug('11111');
     }
 }
