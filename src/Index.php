@@ -13,6 +13,7 @@ class Index
     public function index(){
         echo 'ciehsi';
         echo "master change";
+        echo 'git ceshi ';
         debug('11111');
     }
 }
