@@ -1,0 +1,20 @@
+{
+    "name": "ruantofly/io",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Ruantofly",
+            "email": "18500847536@163.com"
+        }
+    ],
+    "autoload":{
+      "psr-4":{
+          "Ruantofly\\IO\\":"./src/"
+      },
+      "files":[
+        "src/Helper.php"
+      ]
+    },
+    "require": {}
+}
