@@ -15,6 +15,7 @@ class Index
         echo "master change";
         echo 'git ceshi ';
         echo 'git ceshi master 222 ';
+        echo 'git ceshi   222';
         debug('11111');
     }
 }

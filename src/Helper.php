@@ -19,6 +19,7 @@ function send($client, $data, $flag = true)
         $response .= "Content-length: ".strlen($data)."\r\n\r\n";
         $response .= $data;
         fwrite($client, $response);
+        //ceshi 222
     }
 }
 
